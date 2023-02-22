@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ControlAcceso.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Puerto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM5</Value>
+    </Setting>
+    <Setting Name="RutaDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Alejandro\Desktop\PROYECTO EMBEBIDOS\ControlAcceso\ControlDeAcceso.db</Value>
+    </Setting>
+    <Setting Name="NombreEmpresa" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Universidad Tecnológica de México</Value>
+    </Setting>
+    <Setting Name="RutaFotos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Alejandro\Desktop\PROYECTO EMBEBIDOS\IMAGENES</Value>
+    </Setting>
+    <Setting Name="TipoDeRegistro" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Entrada / Salida</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
